@@ -1,0 +1,39 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.venv
+venv
+.pytest_cache
+.mypy_cache
+.ruff_cache
+
+# IDE and OS
+.idea
+.vscode
+*.swp
+.DS_Store
+
+# Build and docs (optional: remove if you need them in image)
+dist
+build
+*.egg-info
+*.egg
+
+# Tests and coverage (not needed in runtime)
+tests
+.coverage
+htmlcov
+
+# Large or local-only files
+*.pdf

@@ -1,0 +1,91 @@
+services:
+  app:
+    platform: linux/amd64
+    build: .
+    user: "0"  # root so app can write to shared volume /tmp/lexnorm_tasks
+    ports:
+      - "${APP_CONTAINER_PORT}:8000"
+    command: uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
+    depends_on:
+      database:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    env_file:
+      - .env
+    environment:
+      - FLAGS_use_mkldnn=0
+      - HF_HOME=/src/.cache/huggingface
+      - TRANSFORMERS_CACHE=/src/.cache/huggingface
+      - TRANSFORMERS_CACHE=/home/appuser/.cache/huggingface
+      - LEXNORM_TASK_BASE_DIR=/tmp/lexnorm_tasks
+    volumes:
+      - ./src:/src/src
+      - ./alembic.ini:/src/alembic.ini
+      - ./alembic:/src/alembic
+      - ./scripts:/src/scripts
+      - lexnorm_task_data:/tmp/lexnorm_tasks
+    networks:
+      - lexnorm
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  database:
+    image: postgres:17.2-alpine
+    container_name: lexnorm_database
+    restart: "no"
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - ${POSTGRES_CONTAINER_PORT}:5432
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    networks:
+      - lexnorm
+    command: [ "postgres", "-c", "log_statement=all" ]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d ${DB_NAME}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  redis:
+    container_name: lexnorm_redis
+    image: redis
+    restart: always
+    ports:
+      - "${REDIS_CONTAINER_PORT}:6379"
+    networks:
+      - lexnorm
+
+  celery_worker:
+    platform: linux/amd64
+    build: .
+    container_name: lexnorm_celery_worker
+    user: "0"  # root so worker can read/write shared volume /tmp/lexnorm_tasks
+    command: celery -A src.core.celery_app worker -P solo --loglevel=info
+    environment:
+      - LEXNORM_TASK_BASE_DIR=/tmp/lexnorm_tasks
+      - FLAGS_use_mkldnn=0
+      - HF_HOME=/src/.cache/huggingface
+      - TRANSFORMERS_CACHE=/src/.cache/huggingface
+    volumes:
+      - ./src:/src/src
+      - lexnorm_task_data:/tmp/lexnorm_tasks
+    depends_on:
+      - app
+      - redis
+    env_file:
+      - .env
+    networks:
+      - lexnorm
+
+volumes:
+  postgres_data:
+  lexnorm_task_data:
+
+networks:
+  lexnorm:
