@@ -1,0 +1,602 @@
+{
+"companies": [
+    {
+    "analysis": "Bu ilan, PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ'nin Denizli Ticaret Sicil Müdürlüğü'nde kuruluş tescilini içermektedir. Şirket 10.000 TL sermaye ile kurulmuş olup, kurucu Hasan Elbir'dir. Yönetim müdür tarafından yürütülecektir. Metinde aynı sayfada farklı bir şirketin (100.000 TL sermayeli, Aydem Holding kuruculuğu) anasözleşme maddeleri de yer almaktadır ancak bu şirket için ticaret unvanı ve MERSIS bilgisi metinde belirtilmemiştir.",
+    "founders": [
+        {
+        "name": {
+            "value": "HASAN ELBİR",
+            "source_text": "Sira No 1 HASAN ELBİR"
+        },
+        "address": {
+            "value": null,
+            "source_text": null
+        },
+        "id_number": {
+            "value": "17833154",
+            "source_text": "İmza (17833154)"
+        },
+        "nationality": {
+            "value": "TÜRKİYE",
+            "source_text": "Uyruk TÜRKİYE"
+        },
+        "founder_type": {
+            "value": "Gerçek Kişi",
+            "source_text": null
+        }
+        }
+    ],
+    "capital_structure": {
+        "currency": {
+        "value": "Türk Lirası",
+        "source_text": "Türk Lirası"
+        },
+        "share_count": {
+        "value": "400 pay",
+        "source_text": "400 paya ayrılmış"
+        },
+        "initial_capital": {
+        "value": "10000,00 Türk Lirası",
+        "source_text": "toplam 10000,00 Türk Lirası değerindedir."
+        },
+        "paid_in_capital": {
+        "value": null,
+        "source_text": null
+        },
+        "nominal_share_value": {
+        "value": "25,00 Türk Lirası",
+        "source_text": "beheri 25,00 Türk Lirası değerinde"
+        },
+        "capital_payment_status": {
+        "value": "Nakden taahhüt edilen payların itibari değerleri, şirketin tescilini izleyen 24 ay içinde ödenecektir.",
+        "source_text": "Nakden taahhüt edilen payların itibari değerleri, şirketin tescilini izleyen 24 ay içinde ödenecektir."
+        }
+    },
+    "document_metadata": {
+        "announcement_type": {
+        "value": "Kuruluş",
+        "source_text": "Tescil Edilen Hususlar:Kuruluş"
+        }
+    },
+    "specific_articles": {
+        "article_4_address": {
+        "value": "Şirketin merkezi AFYONKARAHİSAR ili MERKEZ ilçesi'dir. Adresi BURMALI MAH. BASIN CAD. NO: 26 İÇ KAPI NO: 1 MERKEZ / AFYONKARAHİSAR'dir.",
+        "source_text": "Şirketin merkezi AFYONKARAHİSAR ili MERKEZ ilçesi'dir. Adresi BURMALI MAH. BASIN CAD. NO: 26 İÇ KAPI NO: 1 MERKEZ / AFYONKARAHİSAR'dir."
+        },
+        "article_6_capital": {
+        "value": "Şirketin sermayesi, beheri 25,00 Türk Lirası değerinde 400 paya ayrılmış toplam 10000,00 Türk Lirası değerindedir.",
+        "source_text": "Şirketin sermayesi, beheri 25,00 Türk Lirası değerinde 400 paya ayrılmış toplam 10000,00 Türk Lirası değerindedir."
+        },
+        "article_5_duration": {
+        "value": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır.",
+        "source_text": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır."
+        },
+        "article_8_management": {
+        "value": null,
+        "source_text": null
+        },
+        "article_9_representation": {
+        "value": null,
+        "source_text": null
+        },
+        "article_7_business_purpose": {
+        "value": null,
+        "source_text": null
+        },
+        "article_10_general_assembly": {
+        "value": null,
+        "source_text": null
+        }
+    },
+    "company_information": {
+        "address": {
+        "value": "Adalet Mah. Hasan Gönüllü Bul. No: 15 İç Kapı No: 1 Merkezefendi / Denizli",
+        "source_text": "Adres : Adalet Mah. Hasan Gönüllü Bul. No: 15 İç Kapı No: 1 Merkezefendi / Denizli"
+        },
+        "duration": {
+        "value": "sınırsız",
+        "source_text": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır."
+        },
+        "company_name": {
+        "value": "PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ",
+        "source_text": "Ticaret Unvanı: PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+        },
+        "company_type": {
+        "value": "ANONİM ŞİRKETİ",
+        "source_text": "PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+        },
+        "mersis_number": {
+        "value": "0721091699100001",
+        "source_text": "MERSİS No: 0721091699100001"
+        },
+        "foundation_date": {
+        "value": null,
+        "source_text": null
+        },
+        "business_purpose": {
+        "value": "Şirketin başlıca amaç ve faaliyet konusu enerji sektöründe faaliyet göstermek üzere şirketler kurmak veya bunlara iştirak etmek, iştirak edilen veya yeni kurulan bu şirketlerin yönetimlerini belirlemek ve bu şirketler aracılığıyla yatırımlar yapmak...",
+        "source_text": "3. AMAÇ VE KONU Şirketin başlıca amaç ve faaliyet konusu enerji sektöründe faaliyet göstermek üzere şirketler kurmak veya bunlara iştirak etmek..."
+        },
+        "trade_registry_number": {
+        "value": "49606",
+        "source_text": "Ticaret Sicil/Dosya No: 49606"
+        },
+        "trade_registry_office": {
+        "value": "T.C. DENİZLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ",
+        "source_text": "T.C. DENİZLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ'NDEN"
+        }
+    },
+    "articles_of_association": [
+        {
+        "article_text": {
+            "value": "Şirketin merkezi AFYONKARAHİSAR ili MERKEZ ilçesi'dir. Adresi BURMALI MAH. BASIN CAD. NO: 26 İÇ KAPI NO: 1 MERKEZ / AFYONKARAHİSAR'dir.",
+            "source_text": "Şirketin merkezi AFYONKARAHİSAR ili MERKEZ ilçesi'dir. Adresi BURMALI MAH. BASIN CAD. NO: 26 İÇ KAPI NO: 1 MERKEZ / AFYONKARAHİSAR'dir."
+        },
+        "article_title": {
+            "value": "Şirketin Merkezi",
+            "source_text": "4. ŞİRKETİN MERKEZİ"
+        },
+        "article_number": {
+            "value": "4",
+            "source_text": "4. ŞİRKETİN MERKEZİ"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır.",
+            "source_text": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır."
+        },
+        "article_title": {
+            "value": "Süre",
+            "source_text": "5. SÜRE"
+        },
+        "article_number": {
+            "value": "5",
+            "source_text": "5. SÜRE"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin sermayesi, beheri 25,00 Türk Lirası değerinde 400 paya ayrılmış toplam 10000,00 Türk Lirası değerindedir.",
+            "source_text": "Şirketin sermayesi, beheri 25,00 Türk Lirası değerinde 400 paya ayrılmış toplam 10000,00 Türk Lirası değerindedir."
+        },
+        "article_title": {
+            "value": "Sermaye ve Pay Senetlerinin Nev'i",
+            "source_text": "6. SERMAYE VE PAY SENETLERİNİN NEV'İ"
+        },
+        "article_number": {
+            "value": "6",
+            "source_text": "6. SERMAYE VE PAY SENETLERİNİN NEV'İ"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin işleri ve işlemleri genel kurul tarafından seçilecek bir veya birkaç müdür tarafından yürütülür.",
+            "source_text": "Şirketin işleri ve işlemleri genel kurul tarafından seçilecek bir veya birkaç müdür tarafından yürütülür."
+        },
+        "article_title": {
+            "value": "Şirketin İdaresi",
+            "source_text": "7. ŞİRKETİN İDARESİ"
+        },
+        "article_number": {
+            "value": "7",
+            "source_text": "7. ŞİRKETİN İDARESİ"
+        }
+        }
+    ],
+    "initial_representatives": [
+        {
+        "title": {
+            "value": "Müdür",
+            "source_text": "Müdür olarak seçilmiştir."
+        },
+        "address": {
+            "value": "AFYONKARAHİSAR / MERKEZ",
+            "source_text": "AFYONKARAHİSAR / MERKEZ adresinde ikamet eden"
+        },
+        "person_name": {
+            "value": "HASAN ELBİR",
+            "source_text": "HASAN ELBİR Müdür olarak seçilmiştir."
+        },
+        "tc_kimlik_no": {
+            "value": null,
+            "source_text": null
+        },
+        "term_duration": {
+            "value": null,
+            "source_text": null
+        },
+        "is_tüzel_kişi": {
+            "value": false,
+            "source_text": null
+        },
+        "acting_person_id": {
+            "value": null,
+            "source_text": null
+        },
+        "tüzel_kişi_name": {
+            "value": null,
+            "source_text": null
+        },
+        "acting_person_name": {
+            "value": null,
+            "source_text": null
+        },
+        "acting_person_address": {
+            "value": null,
+            "source_text": null
+        },
+        "representation_authority": {
+            "value": "Münferiden Temsile Yetkilidir",
+            "source_text": "Yetki Şekli: Münferiden Temsile Yetkilidir."
+        }
+        }
+    ],
+    "registration_information": {
+        "gazette_date": {
+        "value": "1 ARALIK 2022",
+        "source_text": "1 ARALIK 2022 SAYI: 10716"
+        },
+        "gazette_page": {
+        "value": "1404-1405",
+        "source_text": "SAYFA : 1404 ... (Devamı 1405. Sayfada)"
+        },
+        "gazette_number": {
+        "value": "10716",
+        "source_text": "SAYI: 10716"
+        },
+        "announcement_date": {
+        "value": "1 ARALIK 2022",
+        "source_text": "1 ARALIK 2022 SAYI: 10716"
+        },
+        "registration_date": {
+        "value": "1.12.2022",
+        "source_text": "1.12.2022 tarihinde tescil edildiği ilan olunur."
+        }
+    },
+    "management_and_representation": {
+        "internal_directive_authority": {
+        "value": null,
+        "source_text": null
+        },
+        "management_board_composition": {
+        "value": "Genel kurul tarafından seçilecek bir veya birkaç müdür",
+        "source_text": "genel kurul tarafından seçilecek bir veya birkaç müdür"
+        },
+        "representation_authority_rules": {
+        "value": "Münferiden Temsile Yetkilidir",
+        "source_text": "Yetki Şekli: Münferiden Temsile Yetkilidir."
+        }
+    }
+    },
+    {
+    "analysis": "Metinde ikinci bir şirket için anasözleşme maddeleri ve kurucu/yönetim bilgileri yer almaktadır. Bu şirketin ticaret unvanı metinde belirtilmemiştir. Sermayesi 100.000 TL olup, kurucusu AYDEM HOLDİNG ANONİM ŞİRKETİ'dir. Yönetim Kurulu yapısı ile temsil yetkileri tanımlanmıştır.",
+    "founders": [
+        {
+        "name": {
+            "value": "AYDEM HOLDİNG ANONİM ŞİRKETİ",
+            "source_text": "KURUCULAR ... AYDEM HOLDİNG ANONİM ŞİRKETİ"
+        },
+        "address": {
+            "value": "ESENTEPE MAHALLESİ BÜYÜKDERE CAD. NO: 175/101 ŞİŞLİ/İSTANBUL",
+            "source_text": "Adres: ESENTEPE MAHALLESİ BÜYÜKDERE CAD. NO: 175/101 ŞİŞLİ/İSTANBUL"
+        },
+        "id_number": {
+            "value": null,
+            "source_text": null
+        },
+        "nationality": {
+            "value": "TÜRKİYE",
+            "source_text": "Uyruk TÜRKİYE"
+        },
+        "founder_type": {
+            "value": "Tüzel Kişi",
+            "source_text": "AYDEM HOLDİNG ANONİM ŞİRKETİ"
+        }
+        }
+    ],
+    "capital_structure": {
+        "currency": {
+        "value": "Türk Lirası",
+        "source_text": "Türk Lirası"
+        },
+        "share_count": {
+        "value": "100000 pay",
+        "source_text": "100000 paya ayrılmış"
+        },
+        "initial_capital": {
+        "value": "100000,00 Türk Lirası",
+        "source_text": "toplam 100000,00 Türk Lirası değerindedir."
+        },
+        "paid_in_capital": {
+        "value": null,
+        "source_text": null
+        },
+        "nominal_share_value": {
+        "value": "1,00 Türk Lirası",
+        "source_text": "beheri 1,00 Türk Lirası değerinde"
+        },
+        "capital_payment_status": {
+        "value": "Nakden taahhüt edilen payların itibari değerlerinin tamamı şirketin tescilinden önce ödenmiştir.",
+        "source_text": "Nakden taahhüt edilen payların itibari değerlerinin tamamı şirketin tescilinden önce ödenmiştir."
+        }
+    },
+    "document_metadata": {
+        "announcement_type": {
+        "value": "Kuruluş",
+        "source_text": null
+        }
+    },
+    "specific_articles": {
+        "article_4_address": {
+        "value": "Şirketin merkezi DENİZLİ ili MERKEZEFENDİ ilçesi'dir. Adresi ADALET MAH. HASAN GÖNÜLLÜ BUL. NO: 15 İÇ KAPI NO: 1 MERKEZEFENDİ / DENİZLİdir.",
+        "source_text": "Şirketin merkezi DENİZLİ ili MERKEZEFENDİ ilçesi'dir. Adresi ADALET MAH. HASAN GÖNÜLLÜ BUL. NO: 15 İÇ KAPI NO: 1 MERKEZEFENDİ / DENİZLİdir."
+        },
+        "article_6_capital": {
+        "value": "Şirketin sermayesi, beheri 1,00 Türk Lirası değerinde 100000 paya ayrılmış toplam 100000,00 Türk Lirası değerindedir.",
+        "source_text": "Şirketin sermayesi, beheri 1,00 Türk Lirası değerinde 100000 paya ayrılmış toplam 100000,00 Türk Lirası değerindedir."
+        },
+        "article_5_duration": {
+        "value": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır.",
+        "source_text": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır."
+        },
+        "article_8_management": {
+        "value": "Şirketin işleri ve idaresi Genel Kurul tarafından Türk Ticaret Kanunu Hükümleri çerçevesinde seçilecek en az 1 üyeden oluşan bir yönetim kurulu tarafından yürütülür.",
+        "source_text": "Şirketin işleri ve idaresi Genel Kurul tarafından Türk Ticaret Kanunu Hükümleri çerçevesinde seçilecek en az 1 üyeden oluşan bir yönetim kurulu tarafından yürütülür."
+        },
+        "article_9_representation": {
+        "value": null,
+        "source_text": null
+        },
+        "article_7_business_purpose": {
+        "value": null,
+        "source_text": null
+        },
+        "article_10_general_assembly": {
+        "value": null,
+        "source_text": null
+        }
+    },
+    "company_information": {
+        "address": {
+        "value": "ADALET MAH. HASAN GÖNÜLLÜ BUL. NO: 15 İÇ KAPI NO: 1 MERKEZEFENDİ / DENİZLİ",
+        "source_text": "Adresi ADALET MAH. HASAN GÖNÜLLÜ BUL. NO: 15 İÇ KAPI NO: 1 MERKEZEFENDİ / DENİZLİdir."
+        },
+        "duration": {
+        "value": "sınırsız",
+        "source_text": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır."
+        },
+        "company_name": {
+        "value": null,
+        "source_text": null
+        },
+        "company_type": {
+        "value": "ANONİM ŞİRKETİ",
+        "source_text": "Anonim şirketlerin genel kurul toplantıları..."
+        },
+        "mersis_number": {
+        "value": null,
+        "source_text": null
+        },
+        "foundation_date": {
+        "value": null,
+        "source_text": null
+        },
+        "business_purpose": {
+        "value": null,
+        "source_text": null
+        },
+        "trade_registry_number": {
+        "value": null,
+        "source_text": null
+        },
+        "trade_registry_office": {
+        "value": "DENİZLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ",
+        "source_text": "Şirketin merkezi DENİZLİ ili MERKEZEFENDİ ilçesi'dir."
+        }
+    },
+    "articles_of_association": [
+        {
+        "article_text": {
+            "value": "Şirketin merkezi DENİZLİ ili MERKEZEFENDİ ilçesi'dir. Adresi ADALET MAH. HASAN GÖNÜLLÜ BUL. NO: 15 İÇ KAPI NO: 1 MERKEZEFENDİ / DENİZLİdir.",
+            "source_text": "Şirketin merkezi DENİZLİ ili MERKEZEFENDİ ilçesi'dir. Adresi ADALET MAH. HASAN GÖNÜLLÜ BUL. NO: 15 İÇ KAPI NO: 1 MERKEZEFENDİ / DENİZLİdir."
+        },
+        "article_title": {
+            "value": "Şirketin Merkezi",
+            "source_text": "4.ŞİRKETİN MERKEZİ"
+        },
+        "article_number": {
+            "value": "4",
+            "source_text": "4.ŞİRKETİN MERKEZİ"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır.",
+            "source_text": "Şirketin süresi, kuruluşundan itibaren sınırsız'dır."
+        },
+        "article_title": {
+            "value": "Süre",
+            "source_text": "5. SÜRE"
+        },
+        "article_number": {
+            "value": "5",
+            "source_text": "5. SÜRE"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin sermayesi, beheri 1,00 Türk Lirası değerinde 100000 paya ayrılmış toplam 100000,00 Türk Lirası değerindedir.",
+            "source_text": "Şirketin sermayesi, beheri 1,00 Türk Lirası değerinde 100000 paya ayrılmış toplam 100000,00 Türk Lirası değerindedir."
+        },
+        "article_title": {
+            "value": "Sermaye",
+            "source_text": "6. SERMAYE"
+        },
+        "article_number": {
+            "value": "6",
+            "source_text": "6. SERMAYE"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin işleri ve idaresi Genel Kurul tarafından Türk Ticaret Kanunu Hükümleri çerçevesinde seçilecek en az 1 üyeden oluşan bir yönetim kurulu tarafından yürütülür.",
+            "source_text": "Şirketin işleri ve idaresi Genel Kurul tarafından Türk Ticaret Kanunu Hükümleri çerçevesinde seçilecek en az 1 üyeden oluşan bir yönetim kurulu tarafından yürütülür."
+        },
+        "article_title": {
+            "value": "Yönetim Kurulu ve Süresi",
+            "source_text": "7. YÖNETİM KURULU ve SÜRESİ"
+        },
+        "article_number": {
+            "value": "7",
+            "source_text": "7. YÖNETİM KURULU ve SÜRESİ"
+        }
+        },
+        {
+        "article_text": {
+            "value": "Şirketin Yönetimi ve dışarıya karşı temsili Yönetim Kurulu'na aitr.",
+            "source_text": "Şirketin Yönetimi ve dışarıya karşı temsili Yönetim Kurulu'na aitr."
+        },
+        "article_title": {
+            "value": "Şirketin İdaresi ve Temsili",
+            "source_text": "8. ŞİRKETİN İDARESİ VE TEMSİLİ"
+        },
+        "article_number": {
+            "value": "8",
+            "source_text": "8. ŞİRKETİN İDARESİ VE TEMSİLİ"
+        }
+        }
+    ],
+    "initial_representatives": [
+        {
+        "title": {
+            "value": "Yönetim Kurulu Başkanı",
+            "source_text": "(Yönetim Kurulu Başkanı)"
+        },
+        "address": {
+            "value": "ESENTEPE MAHALLESİ BÜYÜKDERE CAD. NO: 175/101 ŞİŞLİ/İSTANBUL",
+            "source_text": "ESENTEPE MAHALLESİ BÜYÜKDERE CAD. NO: 175/101 ŞİŞLİ/İSTANBUL adresinde yer alan"
+        },
+        "person_name": {
+            "value": "AYDEM HOLDİNG ANONİM ŞİRKETİ",
+            "source_text": "AYDEM HOLDİNG ANONİM ŞİRKETİ (Yönetim Kurulu Başkanı) Temsile Yetkili olarak seçilmiştir."
+        },
+        "tc_kimlik_no": {
+            "value": null,
+            "source_text": null
+        },
+        "term_duration": {
+            "value": "İlk 1 Yıl için",
+            "source_text": "İlk 1 Yil için"
+        },
+        "is_tüzel_kişi": {
+            "value": true,
+            "source_text": null
+        },
+        "acting_person_id": {
+            "value": "234******02",
+            "source_text": "234******02 Kimlik No'lu"
+        },
+        "tüzel_kişi_name": {
+            "value": "AYDEM HOLDİNG ANONİM ŞİRKETİ",
+            "source_text": "AYDEM HOLDİNG ANONİM ŞİRKETİ"
+        },
+        "acting_person_name": {
+            "value": "İDRIS KÜPELİ",
+            "source_text": "Tüzel kişi adına; ... İDRIS KÜPELİ hareket edecektir."
+        },
+        "acting_person_address": {
+            "value": "İSTANBUL / BEŞİKTAŞ",
+            "source_text": "İSTANBUL / BEŞİKTAŞ adresinde ikamet eden"
+        },
+        "representation_authority": {
+            "value": "Münferiden Temsile Yetkilidir",
+            "source_text": "Yetki Şekli: Münferiden Temsile Yetkilidir."
+        }
+        },
+        {
+        "title": {
+            "value": "Yönetim Kurulu Başkan Yardımcısı",
+            "source_text": "(Yönetim Kurulu Başkan Yardımcısı)"
+        },
+        "address": {
+            "value": "DENİZLİ / MERKEZEFENDİ",
+            "source_text": "DENİZLİ / MERKEZEFENDİ adresinde ikamet eden"
+        },
+        "person_name": {
+            "value": "MEHMET GÖKAY ÜSTÜN",
+            "source_text": "MEHMET GÖKAY ÜSTÜN (Yönetim Kurulu Başkan Yardımcısı) Temsile Yetkili olarak seçilmiştir."
+        },
+        "tc_kimlik_no": {
+            "value": "270******46",
+            "source_text": "270******46 Kimlik No'lu"
+        },
+        "term_duration": {
+            "value": "İlk 1 Yıl için",
+            "source_text": "İlk 1 Yıl için"
+        },
+        "is_tüzel_kişi": {
+            "value": false,
+            "source_text": null
+        },
+        "acting_person_id": {
+            "value": null,
+            "source_text": null
+        },
+        "tüzel_kişi_name": {
+            "value": null,
+            "source_text": null
+        },
+        "acting_person_name": {
+            "value": null,
+            "source_text": null
+        },
+        "acting_person_address": {
+            "value": null,
+            "source_text": null
+        },
+        "representation_authority": {
+            "value": "Münferiden Temsile Yetkilidir",
+            "source_text": "Yetki Şekli: Münferiden Temsile Yetkilidir."
+        }
+        }
+    ],
+    "registration_information": {
+        "gazette_date": {
+        "value": "1 ARALIK 2022",
+        "source_text": "1 ARALIK 2022 SAYI: 10716"
+        },
+        "gazette_page": {
+        "value": "1405",
+        "source_text": "SAYFA: 1405"
+        },
+        "gazette_number": {
+        "value": "10716",
+        "source_text": "SAYI: 10716"
+        },
+        "announcement_date": {
+        "value": "1 ARALIK 2022",
+        "source_text": "1 ARALIK 2022 SAYI: 10716"
+        },
+        "registration_date": {
+        "value": null,
+        "source_text": null
+        }
+    },
+    "management_and_representation": {
+        "internal_directive_authority": {
+        "value": null,
+        "source_text": null
+        },
+        "management_board_composition": {
+        "value": "En az 1 üyeden oluşan bir yönetim kurulu",
+        "source_text": "en az 1 üyeden oluşan bir yönetim kurulu"
+        },
+        "representation_authority_rules": {
+        "value": "Münferiden Temsile Yetkilidir",
+        "source_text": "Yetki Şekli: Münferiden Temsile Yetkilidir."
+        }
+    }
+    }
+]
+}

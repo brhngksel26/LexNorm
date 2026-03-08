@@ -1,0 +1,623 @@
+{
+    "companies": [
+      {
+        "analysis": "Şirket sermayesi 1.000.000 TL'ye çıkarılmıştır (40.000 pay). Sermaye artışı 900.000 TL nakden karşılanmıştır. Ortaklık yapısı Hilal ŞENKAYA SANCHEZ VILLENA ve Marc SANCHEZ VILLENA'dan oluşmaktadır.",
+        "address_changes": [],
+        "capital_changes": {
+          "currency": {
+            "value": "TL",
+            "source_text": "1.000.000,00 TL'den ibarettir."
+          },
+          "new_capital": {
+            "value": "1.000.000,00 TL",
+            "source_text": "Şirketin sermayesi her biri 25 TL değerinde 40.000 paya ayrılmış olup; 1.000.000,00 TL'den ibarettir."
+          },
+          "share_count": {
+            "value": "40.000",
+            "source_text": "her biri 25 TL değerinde 40.000 paya ayrılmış olup"
+          },
+          "share_value": {
+            "value": "25 TL",
+            "source_text": "her biri 25 TL değerinde"
+          },
+          "payment_method": {
+            "value": "Nakden",
+            "source_text": "Bu defa artırılan sermayenin 900.000,00 TL'si nakden karşılanmıştır."
+          },
+          "previous_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "capital_increase_amount": {
+            "value": "900.000,00 TL",
+            "source_text": "Bu defa artırılan sermayenin 900.000,00 TL'si nakden karşılanmıştır."
+          },
+          "registered_capital_system": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_ceiling": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "document_metadata": {
+          "announcement_type": {
+            "value": "Sermaye Ve Pay Senetlerinin Nev'I",
+            "source_text": "Tescil Edilen Hususlar:Sermaye Ve Pay Senetlerinin Nev'I"
+          }
+        },
+        "management_changes": [],
+        "auditor_information": {
+          "auditor_name": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_type": {
+            "value": null,
+            "source_text": null
+          },
+          "term_end_date": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_address": {
+            "value": null,
+            "source_text": null
+          },
+          "term_start_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_method": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_mersis_number": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "company_information": {
+          "address": {
+            "value": "Kandilli Mah. Kurtbağrı Sk. No: 4 İç Kapı No: 1 Üsküdar / İstanbul",
+            "source_text": "Adres : Kandilli Mah. Kurtbağrı Sk. No: 4 İç Kapı No: 1 Üsküdar / İstanbul"
+          },
+          "company_name": {
+            "value": "CASA MASSAL GAYRİMENKUL PROJE TASARIM VE DANIŞMANLIK LİMİTED ŞİRKETİ",
+            "source_text": "Ticaret Unvani: CASA MASSAL GAYRİMENKUL PROJE TASARIM VE DANIŞMANLIK LİMİTED ŞİRKETİ"
+          },
+          "company_type": {
+            "value": "Limited Şirketi",
+            "source_text": "CASA MASSAL GAYRİMENKUL PROJE TASARIM VE DANIŞMANLIK LİMİTED ŞİRKETİ"
+          },
+          "mersis_number": {
+            "value": "0203079628200001",
+            "source_text": "Mersis No: 0203079628200001"
+          },
+          "trade_registry_number": {
+            "value": "401173-5",
+            "source_text": "Ticaret Sicil/Dosya No: 401173-5"
+          },
+          "trade_registry_office": {
+            "value": "T.C. İSTANBUL TİCARET SİCİLİ MÜDÜRLÜĞÜ",
+            "source_text": "T.C. İSTANBUL TİCARET SİCİLİ MÜDÜRLÜĞÜ NDEN"
+          }
+        },
+        "shareholder_structure": [
+          {
+            "currency": {
+              "value": "TL",
+              "source_text": "500.000,00 TL'si"
+            },
+            "percentage": {
+              "value": null,
+              "source_text": null
+            },
+            "share_count": {
+              "value": "20.000",
+              "source_text": "20.000 adet karşılığı"
+            },
+            "share_amount": {
+              "value": "500.000,00 TL",
+              "source_text": "500.000,00 TL'si"
+            },
+            "shareholder_name": {
+              "value": "Hilal ŞENKAYA SANCHEZ VILLENA",
+              "source_text": "20.000 adet karşılığı 500.000,00 TL'si Hilal ŞENKAYA SANCHEZ VILLENA tarafindan"
+            },
+            "shareholder_type": {
+              "value": "Gerçek Kişi",
+              "source_text": null
+            }
+          },
+          {
+            "currency": {
+              "value": "TL",
+              "source_text": "500.000,00 TL'si"
+            },
+            "percentage": {
+              "value": null,
+              "source_text": null
+            },
+            "share_count": {
+              "value": "20.000",
+              "source_text": "20.000 adet karşılıği"
+            },
+            "share_amount": {
+              "value": "500.000,00 TL",
+              "source_text": "500.000,00 TL'si"
+            },
+            "shareholder_name": {
+              "value": "Marc SANCHEZ VILLENA",
+              "source_text": "20.000 adet karşılıği 500.000,00 TL'si Marc SANCHEZ VILLENA tarafindan"
+            },
+            "shareholder_type": {
+              "value": "Gerçek Kişi",
+              "source_text": null
+            }
+          }
+        ],
+        "registration_information": {
+          "announcement_date": {
+            "value": "22 ARALIK 2025",
+            "source_text": "22 ARALIK 2025 SAYI: 11484"
+          },
+          "registration_date": {
+            "value": "22.12.2025",
+            "source_text": "22.12.2025 tarihinde tescil edildiği ilan olunur"
+          }
+        },
+        "articles_of_association_changes": [
+          {
+            "article_title": {
+              "value": "SERMAYE VE PAY SENETLERİNIN NEV'İ",
+              "source_text": "SERMAYE VE PAY SENETLERİNIN NEV'İ"
+            },
+            "article_number": {
+              "value": "6",
+              "source_text": "Madde 6-"
+            },
+            "new_article_text": {
+              "value": "Şirketin sermayesi her biri 25 TL değerinde 40.000 paya ayrılmış olup; 1.000.000,00 TL'den ibarettir.",
+              "source_text": "Şirketin sermayesi her biri 25 TL değerinde 40.000 paya ayrılmış olup; 1.000.000,00 TL'den ibarettir."
+            },
+            "previous_article_text": {
+              "value": null,
+              "source_text": null
+            }
+          }
+        ]
+      },
+      {
+        "analysis": "Şirket için PWC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK ANONİM ŞİRKETİ denetçi olarak atanmıştır. Görev süresi 1.1.2025 - 31.12.2025 arasındadır.",
+        "address_changes": [],
+        "capital_changes": {
+          "currency": {
+            "value": null,
+            "source_text": null
+          },
+          "new_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "share_count": {
+            "value": null,
+            "source_text": null
+          },
+          "share_value": {
+            "value": null,
+            "source_text": null
+          },
+          "payment_method": {
+            "value": null,
+            "source_text": null
+          },
+          "previous_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "capital_increase_amount": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_system": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_ceiling": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "document_metadata": {
+          "announcement_type": {
+            "value": "Denetçiler",
+            "source_text": "Tescil Edilen Hususlar:Denetçiler"
+          }
+        },
+        "management_changes": [],
+        "auditor_information": {
+          "auditor_name": {
+            "value": "PWC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK ANONİM ŞİRKETİ",
+            "source_text": "PWC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK ANONİM ŞİRKETİ"
+          },
+          "auditor_type": {
+            "value": "Bağımsız Denetim Şirketi",
+            "source_text": "PWC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK ANONİM ŞİRKETİ"
+          },
+          "term_end_date": {
+            "value": "31.12.2025",
+            "source_text": "Bitiş Tarihi 31.12.2025"
+          },
+          "auditor_address": {
+            "value": "BEYOĞLU İSTANBUL",
+            "source_text": "BEYOĞLU İSTANBUL"
+          },
+          "term_start_date": {
+            "value": "1.1.2025",
+            "source_text": "Başlangıç Tarihi 1.1.2025"
+          },
+          "appointment_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_method": {
+            "value": "Genel Kurul Kararı",
+            "source_text": "2025 Yılı Olağanüstü Genel Kurul Toplantı Tutanağı Sayılı Genel Kurul Kararı"
+          },
+          "auditor_mersis_number": {
+            "value": "0146002240500015",
+            "source_text": "MERSİS No 0146002240500015"
+          }
+        },
+        "company_information": {
+          "address": {
+            "value": "Adalet Mah. Hasan Gönüllü Bul. No: 15 İç Kapı No: 1 Merkezefendi / Denizli",
+            "source_text": "Adres : Adalet Mah. Hasan Gönüllü Bul. No: 15 İç Kapı No: 1 Merkezefendi / Denizli"
+          },
+          "company_name": {
+            "value": "PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ",
+            "source_text": "Ticaret Unvanı: PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+          },
+          "company_type": {
+            "value": "Anonim Şirketi",
+            "source_text": "PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+          },
+          "mersis_number": {
+            "value": "0721091699100001",
+            "source_text": "Mersis No: 0721091699100001"
+          },
+          "trade_registry_number": {
+            "value": "49606",
+            "source_text": "Ticaret Sicil/Dosya No: 49606"
+          },
+          "trade_registry_office": {
+            "value": "T.C. DENİZLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ",
+            "source_text": "T.C. DENİZLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ'NDEN"
+          }
+        },
+        "shareholder_structure": [],
+        "registration_information": {
+          "announcement_date": {
+            "value": "22 ARALIK 2025",
+            "source_text": "22 ARALIK 2025 SAYI: 11484"
+          },
+          "registration_date": {
+            "value": "22.12.2025",
+            "source_text": "22.12.2025 tarihinde tescil edildiği ilan olunur"
+          }
+        },
+        "articles_of_association_changes": []
+      },
+      {
+        "analysis": "Şirkette pay devri gerçekleşmiş ve BİLAL TEKDEMİR tek ortak olmuştur (2000 pay). Ayrıca EMRE ŞAHiN'in Müdür görevi sona ermiştir.",
+        "address_changes": [],
+        "capital_changes": {
+          "currency": {
+            "value": null,
+            "source_text": null
+          },
+          "new_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "share_count": {
+            "value": null,
+            "source_text": null
+          },
+          "share_value": {
+            "value": null,
+            "source_text": null
+          },
+          "payment_method": {
+            "value": null,
+            "source_text": null
+          },
+          "previous_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "capital_increase_amount": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_system": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_ceiling": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "document_metadata": {
+          "announcement_type": {
+            "value": "Pay Devri, Müdürler / Yetkililer",
+            "source_text": "Tescil Edilen Hususlar:Pay Devri, Müdürler / Yetkililer"
+          }
+        },
+        "management_changes": [
+          {
+            "new_role": {
+              "value": null,
+              "source_text": null
+            },
+            "change_type": {
+              "value": "Görevden Ayrılma",
+              "source_text": "önceki bu görevi sona ermiştir"
+            },
+            "person_name": {
+              "value": "EMRE ŞAHiN",
+              "source_text": "EMRE ŞAHiN"
+            },
+            "tc_kimlik_no": {
+              "value": "288******10",
+              "source_text": "288******10 Kimlik No'lu"
+            },
+            "previous_role": {
+              "value": "Müdür (Müdürler Kurulu Başkanı)",
+              "source_text": "Müdür (Müdürler Kurulu Başkanı) görevi olan"
+            },
+            "appointment_date": {
+              "value": null,
+              "source_text": null
+            },
+            "termination_date": {
+              "value": null,
+              "source_text": null
+            },
+            "joint_signatories": [],
+            "representation_authority": {
+              "value": null,
+              "source_text": null
+            }
+          }
+        ],
+        "auditor_information": {
+          "auditor_name": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_type": {
+            "value": null,
+            "source_text": null
+          },
+          "term_end_date": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_address": {
+            "value": null,
+            "source_text": null
+          },
+          "term_start_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_method": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_mersis_number": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "company_information": {
+          "address": {
+            "value": "Ataşehir Mah. 8229/2 Sk. No: 33 Çiğli / İzmir",
+            "source_text": "Adres : Ataşehir Mah. 8229/2 Sk. No: 33 Çiğli / İzmir"
+          },
+          "company_name": {
+            "value": "CARLEON GARAGE OTO AKSESUAR AMBALAJ TURİZM SANAYİ TİCARET LİMİTED ŞİRKETİ",
+            "source_text": "Ticaret Unvani: CARLEON GARAGE OTO AKSESUAR AMBALAJ TURİZM SANAYİ TİCARET LİMİTED ŞİRKETİ"
+          },
+          "company_type": {
+            "value": "Limited Şirketi",
+            "source_text": "CARLEON GARAGE OTO AKSESUAR AMBALAJ TURİZM SANAYİ TİCARET LİMİTED ŞİRKETİ"
+          },
+          "mersis_number": {
+            "value": "0203085952200001",
+            "source_text": "Mersis No: 0203085952200001"
+          },
+          "trade_registry_number": {
+            "value": "253014",
+            "source_text": "Ticaret Sicil/Dosya No: 253014"
+          },
+          "trade_registry_office": {
+            "value": "T.C. İZMİR TİCARET SİCİLİ MÜDÜRLÜĞÜ",
+            "source_text": "T.C. İZMiR TİCARET SİCİLİ MÜDÜRLÜĞÜNDEN"
+          }
+        },
+        "shareholder_structure": [
+          {
+            "currency": {
+              "value": "TL",
+              "source_text": "Türk Lirasi"
+            },
+            "percentage": {
+              "value": null,
+              "source_text": null
+            },
+            "share_count": {
+              "value": "2000",
+              "source_text": "2000 adet paya karşılık gelen"
+            },
+            "share_amount": {
+              "value": "50000,00 Türk Lirasi",
+              "source_text": "50000,00 Türk Lirasi"
+            },
+            "shareholder_name": {
+              "value": "BİLAL TEKDEMİR",
+              "source_text": "BİLAL TEKDEMİR"
+            },
+            "shareholder_type": {
+              "value": "Gerçek Kişi",
+              "source_text": null
+            }
+          }
+        ],
+        "registration_information": {
+          "announcement_date": {
+            "value": "22 ARALIK 2025",
+            "source_text": "22 ARALIK 2025 SAYI: 11484"
+          },
+          "registration_date": {
+            "value": "22.12.2025",
+            "source_text": "22.12.2025 tarihinde tescil edildiği ilan olunur"
+          }
+        },
+        "articles_of_association_changes": []
+      },
+      {
+        "analysis": "Bu ilan metninde şirketin temel bilgileri (unvan, adres, MERSİS) yer almaktadır ancak tescil edilen hususlar veya değişiklik detayları bu sayfa parçasında belirtilmemiştir.",
+        "address_changes": [],
+        "capital_changes": {
+          "currency": {
+            "value": null,
+            "source_text": null
+          },
+          "new_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "share_count": {
+            "value": null,
+            "source_text": null
+          },
+          "share_value": {
+            "value": null,
+            "source_text": null
+          },
+          "payment_method": {
+            "value": null,
+            "source_text": null
+          },
+          "previous_capital": {
+            "value": null,
+            "source_text": null
+          },
+          "capital_increase_amount": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_system": {
+            "value": null,
+            "source_text": null
+          },
+          "registered_capital_ceiling": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "document_metadata": {
+          "announcement_type": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "management_changes": [],
+        "auditor_information": {
+          "auditor_name": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_type": {
+            "value": null,
+            "source_text": null
+          },
+          "term_end_date": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_address": {
+            "value": null,
+            "source_text": null
+          },
+          "term_start_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_date": {
+            "value": null,
+            "source_text": null
+          },
+          "appointment_method": {
+            "value": null,
+            "source_text": null
+          },
+          "auditor_mersis_number": {
+            "value": null,
+            "source_text": null
+          }
+        },
+        "company_information": {
+          "address": {
+            "value": "Cumhuriyet Mah. Malatya Cad. Alışveriş Merkezi Blok No: 10 İç Kapı No: 93 Merkez / Elazığ",
+            "source_text": "Adres : Cumhuriyet Mah. Malatya Cad. Alışveriş Merkezi Blok No: 10 İç Kapı No: 93 Merkez / Elazığ"
+          },
+          "company_name": {
+            "value": "ELYSİUM GAYRİMENKUL YATIRIM ANONİM ŞİRKETİ",
+            "source_text": "Ticaret Unvanı: ELYSİUM GAYRİMENKUL YATIRIM ANONİM ŞİRKETİ"
+          },
+          "company_type": {
+            "value": "Anonim Şirketi",
+            "source_text": "ELYSİUM GAYRİMENKUL YATIRIM ANONİM ŞİRKETİ"
+          },
+          "mersis_number": {
+            "value": "0333158472000001",
+            "source_text": "Mersis No: 0333158472000001"
+          },
+          "trade_registry_number": {
+            "value": "16951",
+            "source_text": "Ticaret Sicil/Dosya No: 16951"
+          },
+          "trade_registry_office": {
+            "value": "T.C. ELAZIĞ TİCARET SİCİLİ MÜDÜRLÜĞÜ",
+            "source_text": "T.C. ELAZIĞ TİCARET SİCİLİ MÜDÜRLÜĞÜ'NDEN"
+          }
+        },
+        "shareholder_structure": [],
+        "registration_information": {
+          "announcement_date": {
+            "value": "22 ARALIK 2025",
+            "source_text": "22 ARALIK 2025 SAYI: 11484"
+          },
+          "registration_date": {
+            "value": "22.12.2025",
+            "source_text": "22.12.2025 tarihinde tescil edildiği ilan olunur"
+          }
+        },
+        "articles_of_association_changes": []
+      }
+    ]
+}
